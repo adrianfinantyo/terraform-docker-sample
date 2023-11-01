@@ -60,3 +60,7 @@ If you have any ideas or suggestions, feel free to open an issue or a pull reque
 ## License
 
 This repository is open-source and available under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- [Terraform Docker Module](https://registry.terraform.io/providers/kreuzwerker/docker/latest) - This repository is based on the Terraform Docker module by [kreuzwerker](https://github.com/kreuzwerker).
